@@ -1,4 +1,4 @@
-// Open source version of the Site3D library. For more information visit the Site3D official website https://site3d.site
+// Open source version of the Site3D. For more information visit the Site3D official website https://site3d.site
 
 class site3d
 {
